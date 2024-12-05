@@ -21,9 +21,9 @@ body {
 
 .sideBar {
  
-  border-right: 3px solid rgb(100, 100, 100); /* Right border */
-  margin-left: 0; /* Ensure no extra margin pushing the sidebar */
-  padding-left: 0; /* Ensure no extra padding inside the sidebar */
+  border-right: 3px solid rgb(100, 100, 100); 
+  margin-left: 0;
+  padding-left: 0;
 }
 
 main {
@@ -40,14 +40,14 @@ main {
 
 .upperSide {
   padding: 2.5rem;
-  border-bottom: 1px solid rgb(100, 100, 100); /* Corrected spelling */
+  border-bottom: 1px solid rgb(100, 100, 100); 
   height: 70%;
 }
 
 .uppersideTop {
   display: flex;
-  align-items: center; /* Corrected spelling */
-  margin-bottom: 2.5rem; /* Corrected spelling */
+  align-items: center;
+  margin-bottom: 2.5rem; 
 }
 
 .addBtn {
@@ -56,7 +56,7 @@ main {
 }
 
 .midBtn {
-  background: #5A4BFF; /* Corrected spelling */
+  background: #5A4BFF; 
   border: none;
   color: white;
   padding: 1.5rem;
@@ -67,7 +67,7 @@ main {
   justify-content: center;
   margin: 0 auto;
   margin-left: 12px;
-  margin-bottom: 3rem; /* Corrected spelling */
+  margin-bottom: 3rem; 
   border-radius: 0.5rem;
 }
 
